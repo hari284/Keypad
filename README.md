@@ -1,5 +1,6 @@
-# Keypad Library...........
-
+# Keypad 
+1)in design ....remove all concept exept push buttons and lcd to atmega16.
+2)keypad library code......
 //for pc
 unsigned char keypad_pc()
  {  
